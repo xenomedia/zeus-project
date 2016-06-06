@@ -1,5 +1,5 @@
 {
-    "name": "acquia/zues-project",
+    "name": "xenomedia/zues-project",
     "description": "Project template for Drupal 8 sites built with the Zues distribution.",
     "type": "project",
     "license": "GPL-2.0+",
