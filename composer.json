@@ -20,7 +20,7 @@
         "composer/installers": "^1.0",
         "drupal-composer/drupal-scaffold": "^1.2",
         "cweagans/composer-patches": "dev-master",
-        "xenomedia/zeus": "dev-master"
+        "xenomedia/zeus": "1.0.0"
     },
     "repositories": [
         {
