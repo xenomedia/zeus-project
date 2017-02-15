@@ -8,7 +8,7 @@ You will need the following installed:
 
 When you have those, run this command:
 ```
-$ composer create-project xenomedia/zeus-project:^8.1.03 MY_PROJECT --no-interaction --stability rc
+$ composer create-project xenomedia/zeus-project:^8.2.0 MY_PROJECT --no-interaction --stability rc
 ```
 
 ## Maintenance
